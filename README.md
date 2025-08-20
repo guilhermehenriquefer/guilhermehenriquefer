@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-# [Guilherme Henrique] <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2a9o0o0q8r5o0i1_flash-png-pic-flash-png%2F&psig=AOvVaw38oQS7VAqz_pJr644N49qs&ust=1755735104262000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiahpuNmI8DFQAAAAAdAAAAABAL">
+# [Guilherme Henrique] <img src="https://cdn-icons-png.freepik.com/256/252/252590.png?semt=ais_white_label">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
