@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Eu sou <strong>Guilherme</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Estrutura de Dados</strong> 
+- 💬 Pergunte-me sobre: <strong>Jogar Games, Assistir Filmes e Séries</strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 
