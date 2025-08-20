@@ -35,6 +35,6 @@ Eu sou <strong>Guilherme</strong>, <strong>Faça uma breve apresentação aqui</
 
   </br>
 <div align="center">
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Tereza25"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=guilhermehenriquefer"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=guilhermehenriquefer&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
