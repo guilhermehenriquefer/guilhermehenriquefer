@@ -1,4 +1,4 @@
-## Hi there 👋
+## EAI PESSOAL, TUDO BEM?... 👋
 
 <!-- 
 **guilhermehenriquefer/guilhermehenriquefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Eu sou <strong>Guilherme</strong>, <strong>atualmente sou estudante do Embarque 
 
 - 🚀 Atualmente estou aprendendo: <strong>Estrutura de Dados</strong> 
 - 💬 Pergunte-me sobre: <strong>Games 🎮, Filmes e Séries📺</strong>
-- 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 
