@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Eu sou <strong>Guilherme</strong>, <strong>atualmente sou estudante do Embarque Digital no curso ADS, e já trabalho na área de T.I a alguns meses, principalmente com redes, suporte de usuários e manutenção de computadores. Estou animado para obter novos aprendizados, principalmente relacionado a desenvolvimento.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Estrutura de Dados</strong> 
-- 💬 Pergunte-me sobre: <strong>Games, Filmes e Séries</strong>
+- 💬 Pergunte-me sobre: <strong>Games 🎮, Filmes e Séries📺</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
