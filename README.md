@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Eu sou <strong>Guilherme</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Estrutura de Dados</strong> 
-- 💬 Pergunte-me sobre: <strong>Jogar Games, Assistir Filmes e Séries</strong>
+- 💬 Pergunte-me sobre: <strong>Games, Filmes e Séries</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
