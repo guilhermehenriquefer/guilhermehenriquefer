@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-# [Guilherme Henrique] <img src="https://cdn-icons-png.freepik.com/256/252/252590.png?semt=ais_white_label" width= 50px>
+# [Guilherme Henrique] <img src="https://cdn-icons-png.freepik.com/256/252/252590.png?semt=ais_white_label" width= 77px>
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Guilherme</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
