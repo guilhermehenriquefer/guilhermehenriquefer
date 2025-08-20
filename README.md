@@ -1,4 +1,4 @@
-## EAI PESSOAL, TUDO BEM?... 👋
+## Eai pessoal, tudo bem?... 👋
 
 <!-- 
 **guilhermehenriquefer/guilhermehenriquefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
