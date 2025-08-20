@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 # [Guilherme Henrique] <img src="https://cdn-icons-png.freepik.com/256/252/252590.png?semt=ais_white_label" width= 57px>
 
-Eu sou <strong>Guilherme</strong>, <strong>atualmente sou estudante do Embarque Digital no curso ADS, e já trabalho na área de T.I a alguns meses, principalmente com redes, suporte de usuários e manutenção de computadores. Estou animado para obter novos aprendizados, principalmente relacionado a desenvolvimento.</strong> 👨🏻‍💻 
+Eu sou <strong>Guilherme</strong>, <strong>atualmente sou estudante do Embarque Digital no curso ADS, e já trabalho na área de T.I a alguns meses, principalmente com redes, suporte de usuários e manutenção de computadores.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Estrutura de Dados</strong> 
 - 💬 Pergunte-me sobre: <strong>Games 🎮, Filmes e Séries📺</strong>
